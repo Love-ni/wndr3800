@@ -12,3 +12,4 @@
 
 # Modify default IP
 sed -i 's/197.8.20.88/g' package/base-files/files/bin/config_generate
+
