@@ -1,6 +1,6 @@
 # Actions-OpenWrt
 
-IP="197.8.20.88"
+
 
 
 
